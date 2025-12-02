@@ -1,6 +1,6 @@
 #!/bin/bash 
 #Author:Robert Foster 
-#Date:11/04/2020 
+#Date:12/2/2025 
 #Color Text Output Schema.
 #Code	Color		Example					Preview
 #31	Red		echo -e "Default \e[31mRed"		Default Red
